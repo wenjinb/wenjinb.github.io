@@ -7,6 +7,8 @@ layout: page
 
 <img src="./images/wenjinbo.jpg" class="floatpic" width="360" height="480">
 
+<br>
+
 Here is **JinBo Wen(文锦柏)**.
 
 I am a senior student majoring in **Data Science and Big Data** at Guangdong University Of Technology and **Computer Science and Technology** at  Nanjing University of Aeronautics and Astronautics. Currently, I work as a research assistant in the **MetaX Lab** (Provincial Key Laboratory), advised by [Prof. Jiawen Kang](https://teacher.gdut.edu.cn/kangjiawen/zh_CN/index.htm). 
@@ -21,7 +23,7 @@ Here is [[my CV](https://caihanlin.com/file/CV-HanlinCAI.pdf)].
     
 <br>
 
-
+---
 ## Research Interests
 - AIGC  
 - metaverse
