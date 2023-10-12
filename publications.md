@@ -22,7 +22,7 @@ IEEE International Conference on Metaverse Computing, Networking and Application
 
 - [Learning-based Incentive Mechanism for Task Freshness-aware Vehicular Twin Migration](https://www.researchgate.net/publication/373838163_Learning-based_Incentive_Mechanism_for_Task_Freshness-aware_Vehicular_Twin_Migration)  
 Junhong Zhang, Jiangtian Nie, **Jinbo Wen**, Jiawen Kang, Minrui Xu, Xiaofeng Luo, Dusit Niyato, Fellow IEEE  
-2nd International Workshop on Social and Metaverse Computing and Networking (SocialMeta), Hong Kong, China, 2023, p.
+2nd International Workshop on Social and Metaverse Computing and Networking (SocialMeta), Hong Kong, China, 2023, p. (Honored by the best paper award)
 
 <br>
   <br>
