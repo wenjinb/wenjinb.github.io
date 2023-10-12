@@ -26,7 +26,7 @@ Junhong Zhang, Jiangtian Nie, **Jinbo Wen**, Jiawen Kang, Minrui Xu, Xiaofeng Lu
 
 - [Coalition Game for Reliable Vehicle Twin Migration in Vehicular Metaverses](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.researchgate.net/profile/Yue-Zhong-12/publication/372452163_Coalition_Game_for_Reliable_Vehicle_Twin_Migration_in_Vehicular_Metaverses/links/64b7f7978de7ed28baad884c/Coalition-Game-for-Reliable-Vehicle-Twin-Migration-in-Vehicular-Metaverses.pdf)
 YueZhong, **JinboWen**, JiawenKang*, YunaJiang, LeiLiu, XuminHuang, WeifengZhong
-2023 5th International Conference on Electronics and Communication, Network and Computer Technology (ECNCT 2023)
+2023 5th International Conference on Electronics and Communication, Network and Computer Technology (ECNCT 2023).
 
 <br>
   <br>
