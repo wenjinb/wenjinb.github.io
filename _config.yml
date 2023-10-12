@@ -9,7 +9,7 @@ owner:
   name: Jinbo Wen
   avatar: Jinbo.png
  # bio:
-  email: 3119001610@mail2.gdut.edu.cn
+  email: jinbo1608@163.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   # twitter: lancecai2002
   # facebook: caihanlin2002
@@ -32,7 +32,7 @@ owner:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: About Me
+  - title: About me
     url: /
   # - title: Resume
   #   url: /file/CV-HanlinCAI.pdf
