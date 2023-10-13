@@ -5,9 +5,11 @@ title: Publications
 ---
 
 
-<font face="Arial">  
 
-## Conference Papers  
+
+## <font face="Arial">  Conference Papers  </font>  
+
+<font face="Arial"> 
 
 - [Optimal Block Propagation and Incentive Mechanism for Blockchain Networks in 6G](https://www.researchgate.net/publication/365999631_Optimal_Block_Propagation_and_Incentive_Mechanism_for_Blockchain_Networks_in_6G)<br>**Jinbo Wen**, Xiaojun Liu, Zehui Xiong, Meng Shen, Siming Wang, Yutao Jiao, Jiawen Kang*, He Li  
 2022 IEEE International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom), Wuhan, China, 2022.
@@ -29,10 +31,13 @@ Junhong Zhang, Jiangtian Nie, **Jinbo Wen**, Jiawen Kang, Minrui Xu, Xiaofeng Lu
 YueZhong, **JinboWen**, JiawenKang*, YunaJiang, LeiLiu, XuminHuang, WeifengZhong
 2023 5th International Conference on Electronics and Communication, Network and Computer Technology (ECNCT 2023).
 
+</font>  
 <br>
   <br>
 
-## Journal Papers
+## <font face="Arial"> Journal Papers</font> 
+
+<font face="Arial"> 
 
 - [Optimal AoI-based Block Propagation and Incentive Mechanism for Blockchain Networks in Web 3.0]()
 **Jinbo Wen**, Jiawen Kang*, Zehui Xiong, Hongyang Du, Dusit Niyato, Fellow IEEE, Meng Shen, Yutao Jiao, Yang Zhang, and Shengli Xie, Fellow IEEE  
@@ -49,18 +54,18 @@ Transactions on Emerging Telecommunications Technologies, 2023. (IF: 3.6 )
 - [Privacy Attacks and Defenses for Digital Twin Migrations in Vehicular Metaverses](https://ieeexplore.ieee.org/abstract/document/10269659)  
 Xiaofeng Luo, **Jinbo Wen**, Jiawen Kang*, Senior Member, IEEE, Jiangtian Nie, Zehui Xiong, Yang Zhang, Zhaohui Yang, Shengli Xie, Fellow, IEEE
 IEEE Network, 2023. (IF: 9.3)
+</font> 
 
 <br>
   <br>
 
 ---
 
-## Patents
+## <font face="Arial">Patents</font> 
+<font face="Arial">
 
 - **文锦柏**; 苏城; 黄姗姗; 刘桢谋. 基于遗传算法单目标规划模型的供应商与转运选择方法. 2022. (已受理)
 - 童泳桔; 袁宇宇; 康嘉文; 邓瑞龙; 余荣; **文锦柏**. 一种车载元宇宙虚拟化身服务迁移的资源安全保护方法及系统. 2023. (已授权)
-
+</font> 
 <br>
   <br>
-  
-</font>
