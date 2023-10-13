@@ -215,7 +215,7 @@ table {
 }
 
 .all-caps {
-  text-transform: uppercase;
+  text-transform: capitalize;
 }
 
 .pull-left {
@@ -651,7 +651,7 @@ figcaption {
 
 figcaption:before {
   font-weight: 700;
-  text-transform: uppercase;
+  text-transform: capitalize;
   content: "Figure " counter(captions) ": ";
 }
 
@@ -1159,7 +1159,7 @@ img.floatpic {
   margin-bottom: 2em;
   line-height: 1;
   text-align: center;
-  text-transform: uppercase;
+  text-transform: capitalize;
   vertical-align: middle;
   border: 4px double #333332;
   -webkit-border-radius: 50px;
@@ -1626,7 +1626,7 @@ html {
   padding: 2em 0 3em;
   font-family: 'Times New Roman';
   font-weight: 700;
-  text-transform: uppercase;
+  text-transform: capitalize;
 }
 
 .site-name {
@@ -1793,7 +1793,7 @@ html {
   font-size: 24px;
   font-size: 1.3333333333333333rem;
   margin-bottom: 1.2375rem;
-  text-transform: uppercase;
+  text-transform: capitalize;
 }
 
 .article-wrap h2 {
@@ -2096,7 +2096,7 @@ html {
   font-size: 21px;
   font-size: 1.1666666666666667rem;
   margin-bottom: 1.4142857142857141rem;
-  text-transform: uppercase;
+  text-transform: capitalize;
   margin-bottom: 0;
 }
 
