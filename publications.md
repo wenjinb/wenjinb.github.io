@@ -3,10 +3,11 @@ layout: page
 permalink: /publications/index.html
 title: Publications
 ---
-<font face="Arial">
 
 
-## Conference Papers
+<font face="Arial">  
+
+## Conference Papers  
 
 - [Optimal Block Propagation and Incentive Mechanism for Blockchain Networks in 6G](https://www.researchgate.net/publication/365999631_Optimal_Block_Propagation_and_Incentive_Mechanism_for_Blockchain_Networks_in_6G)<br>**Jinbo Wen**, Xiaojun Liu, Zehui Xiong, Meng Shen, Siming Wang, Yutao Jiao, Jiawen Kang*, He Li  
 2022 IEEE International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom), Wuhan, China, 2022.
@@ -61,5 +62,5 @@ IEEE Network, 2023. (IF: 9.3)
 
 <br>
   <br>
-
+  
 </font>

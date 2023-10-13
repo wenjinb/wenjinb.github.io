@@ -2,7 +2,8 @@
 layout: page
 ---
 
-<font face="Arial">
+<font face="Arial">  
+
 # About Me
 
 <img src="./images/wenjinbo.jpg" class="floatpic" width="360" height="480">
@@ -40,5 +41,5 @@ I am a senior student majoring in **Data Science and Big Data** at Guangdong Uni
 - **Sep 2021：** Joined MetaX team of Guangdong University of Technology, advised by [Prof. Jiawen Kang](https://teacher.gdut.edu.cn/kangjiawen/zh_CN/index.htm).
 - If you are interested in my works, please feel free to contact me on wechat:......
 
-
+  
 </font>

@@ -2,9 +2,10 @@
 layout: page
 permalink: /awards/index.html
 title: Awards
----
-<font face="Arial">
-
+---  
+  
+<font face="Arial">  
+  
 ## Scholarships
 
 - June 2023：Guangdong University of Technology Excellent Thesis Innovation Award.
@@ -18,8 +19,6 @@ title: Awards
 
 ## Honors
 
-
-</font>
 <br>
 
-
+</font>
