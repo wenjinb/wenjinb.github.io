@@ -4,7 +4,6 @@ permalink: /awards/index.html
 title: Awards
 ---
 
-
 ## Scholarships
 
 - June 2023：Guangdong University of Technology Excellent Thesis Innovation Award.
@@ -12,8 +11,8 @@ title: Awards
 
 ## Competitions
 
-- Sep 2021: **<font color='red'>The First Prize</font>** of Guangdong Province in the 2021 National College Student Mathematical Modeling Competition
-- Sep 2021: **<font color='red'>The Second Prize</font>** of Guangdong Province in the 2021 National College Student Mathematics Competition
+- Sep 2021: **<font color='red'>The First Prize</font>** of Guangdong Province in the 2021 National College Student Mathematical Modeling Competition  
+- Sep 2021: **<font color='red'>The Second Prize</font>** of Guangdong Province in the 2021 National College Student Mathematics Competition  
 <br>
 
 ## Honors
