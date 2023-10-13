@@ -3,7 +3,7 @@ layout: page
 permalink: /awards/index.html
 title: Awards
 ---
-
+<font face="Arial">
 
 ## Scholarships
 
@@ -18,6 +18,8 @@ title: Awards
 
 ## Honors
 
+
+</font>
 <br>
 
 
