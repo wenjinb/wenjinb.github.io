@@ -5,27 +5,27 @@ title: Publications
 ---
 
 
-
 ## Conference Papers
 
-- [Optimal Block Propagation and Incentive Mechanism for Blockchain Networks in 6G](https://www.researchgate.net/publication/365999631_Optimal_Block_Propagation_and_Incentive_Mechanism_for_Blockchain_Networks_in_6G)<br>**Jinbo Wen**, Xiaojun Liu, Zehui Xiong, Meng Shen, Siming Wang, Yutao Jiao, Jiawen Kang*, He Li  
+- [Optimal Block Propagation and Incentive Mechanism for Blockchain Networks in 6G](https://www.researchgate.net/publication/365999631_Optimal_Block_Propagation_and_Incentive_Mechanism_for_Blockchain_Networks_in_6G)  
+**Jinbo Wen**, Xiaojun Liu, Zehui Xiong, Meng Shen, Siming Wang, Yutao Jiao, Jiawen Kang*, He Li  
 2022 IEEE International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom), Wuhan, China, 2022.
 
-- [Freshness-aware Incentive Mechanism for Mobile AI-Generated Content (AIGC) Networks](https://www.researchgate.net/publication/372493820_Freshness-aware_Incentive_Mechanism_for_Mobile_AI-Generated_Content_AIGC_Networks)  
+- [Freshness-aware Incentive Mechanism for Mobile AI-Generated Content (AIGC) Networks](https://www.researchgate.net/publication/372493820_Freshness-aware_Incentive_Mechanism_for_Mobile_AI-Generated_Content_AIGC_Networks)    
 **Jinbo Wen**, Jiawen Kang, Minrui Xu, Hongyang Du, Zehui Xiong, Yang Zhang*, Dusit Niyato, Fellow IEEE  
 12th IEEE/CIC lnternational Conference on Communications in China (ICCC 2023), Dalian, China, 2023.
 
 - [Task freshness-aware incentive mechanism for vehicle twin migration
 in vehicular metaverses](https://www.researchgate.net/publication/373838193_Task_Freshness-aware_Incentive_Mechanism_for_Vehicle_Twin_Migration_in_Vehicular_Metaverses)   
-**Jinbo Wen**, Jiawen Kang*, Zehui Xiong, Yang Zhang, Hongyang Du, Yutao Jiao, Dusit Niyato, Fellow IEEE  
+**Jinbo Wen**, Jiawen Kang*, Zehui Xiong, Yang Zhang, Hongyang Du, Yutao Jiao, Dusit Niyato, Fellow IEEE    
 IEEE International Conference on Metaverse Computing, Networking and Applications (IEEE MetaCom 2023), Kyoto, Japan, 2023.
 
-- [Learning-based Incentive Mechanism for Task Freshness-aware Vehicular Twin Migration](https://www.researchgate.net/publication/373838163_Learning-based_Incentive_Mechanism_for_Task_Freshness-aware_Vehicular_Twin_Migration)  
-Junhong Zhang, Jiangtian Nie, **Jinbo Wen**, Jiawen Kang, Minrui Xu, Xiaofeng Luo, Dusit Niyato, Fellow IEEE  
+- [Learning-based Incentive Mechanism for Task Freshness-aware Vehicular Twin Migration](https://www.researchgate.net/publication/373838163_Learning-based_Incentive_Mechanism_for_Task_Freshness-aware_Vehicular_Twin_Migration)    
+Junhong Zhang, Jiangtian Nie, **Jinbo Wen**, Jiawen Kang, Minrui Xu, Xiaofeng Luo, Dusit Niyato, Fellow IEEE    
 2nd International Workshop on Social and Metaverse Computing and Networking (SocialMeta), Hong Kong, China, 2023. (**Best paper award**)
 
 - [Coalition Game for Reliable Vehicle Twin Migration in Vehicular Metaverses](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.researchgate.net/profile/Yue-Zhong-12/publication/372452163_Coalition_Game_for_Reliable_Vehicle_Twin_Migration_in_Vehicular_Metaverses/links/64b7f7978de7ed28baad884c/Coalition-Game-for-Reliable-Vehicle-Twin-Migration-in-Vehicular-Metaverses.pdf)
-YueZhong, **JinboWen**, JiawenKang*, YunaJiang, LeiLiu, XuminHuang, WeifengZhong
+YueZhong, **JinboWen**, JiawenKang*, YunaJiang, LeiLiu, XuminHuang, WeifengZhong  
 2023 5th International Conference on Electronics and Communication, Network and Computer Technology (ECNCT 2023).
 
 <br>
@@ -33,7 +33,7 @@ YueZhong, **JinboWen**, JiawenKang*, YunaJiang, LeiLiu, XuminHuang, WeifengZhong
 
 ## Journal Papers
 
-- [Optimal AoI-based Block Propagation and Incentive Mechanism for Blockchain Networks in Web 3.0]()
+- [Optimal AoI-based Block Propagation and Incentive Mechanism for Blockchain Networks in Web 3.0]()  
 **Jinbo Wen**, Jiawen Kang*, Zehui Xiong, Hongyang Du, Dusit Niyato, Fellow IEEE, Meng Shen, Yutao Jiao, Yang Zhang, and Shengli Xie, Fellow IEEE  
 IEEE Transactions on Vehicular Technology, 2022.
 
