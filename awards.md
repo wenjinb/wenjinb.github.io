@@ -12,8 +12,8 @@ title: Awards
 
 ## Competitions
 
-- Sep 2021: **<font color='red'>The First prize</font>** of Guangdong Province in the 2021 National College Student Mathematical Modeling Competition
-- Sep 2021: The second prize of Guangdong Province in the 2021 National College Student Mathematics Competition
+- Sep 2021: **<font color='red'>The First Prize</font>** of Guangdong Province in the 2021 National College Student Mathematical Modeling Competition
+- Sep 2021: **<font color='red'>The Second Prize</font>** of Guangdong Province in the 2021 National College Student Mathematics Competition
 <br>
 
 ## Honors
