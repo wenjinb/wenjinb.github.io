@@ -29,7 +29,7 @@ audio:not([controls]) {
 }
 
 html {
-  font-family: 'Times New Roman';
+  font-family: 'Arial';
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
 }
@@ -80,7 +80,7 @@ code,
 kbd,
 pre,
 samp {
-  font-family: 'Times New Roman';
+  font-family: 'Arial';
   font-size: 1em;
 }
 
@@ -139,7 +139,7 @@ button,
 input,
 select,
 textarea {
-  font-family: 'Times New Roman';
+  font-family: 'Arial';
   font-size: 100%;
   margin: 0;
 }
@@ -251,19 +251,19 @@ table {
 }
 
 @font-face {
-  font-family: "Times New Roman";
+  font-family: 'Arial';
   src: local("Georgia"), local("Garamond"), local("Palatino"), local("Book Antiqua");
   unicode-range: U+270C;
 }
 
 @font-face {
-  font-family: "Times New Roman";
+  font-family: 'Arial';
   src: local("Georgia");
   unicode-range: U+270C;
 }
 
 .ampersand-placeholder {
-  font-family: 'Times New Roman';
+  font-family: 'Arial';
 }
 
 .breakword {
@@ -283,7 +283,7 @@ table {
   margin: inherit;
   padding: inherit;
   font-size: 4em;
-  font-family: 'Times New Roman';
+  font-family: 'Arial';
   line-height: 1;
   text-indent: 0;
   background: transparent;
@@ -448,7 +448,7 @@ pre {
 
 code {
   white-space: pre;
-  font-family: 'Times New Roman';
+  font-family: 'Arial';
 }
 
 abbr {
@@ -578,7 +578,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Times New Roman';
+  font-family: 'Arial';
   font-weight: 700;
 }
 
@@ -645,7 +645,7 @@ figcaption {
   font-size: 18px;
   font-size: 1rem;
   margin-bottom: 1.65rem;
-  font-family: 'Times New Roman';
+  font-family: 'Arial';
   counter-increment: captions;
 }
 
@@ -685,7 +685,7 @@ code,
 kbd,
 samp,
 pre {
-  font-family: Monaco, "Courier New", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", monospace;
+  font-family: 'Arial';
 }
 
 p code {
@@ -702,7 +702,7 @@ p code {
 
 .highlight {
   background-color: #efefef;
-  font-family: Monaco, "Courier New", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", monospace;
+  font-family: 'Arial';
   font-size: 80%;
   color: #333332;
   margin-bottom: 1.5em;
@@ -1222,7 +1222,7 @@ img.floatpic {
 }
 
 @font-face {
-  font-family: 'icomoon';
+  font-family: 'Arial';
   src: url('../fonts/icomoon.eot');
   src: url('../fonts/icomoon.eot?#iefix') format('embedded-opentype'), url('../fonts/icomoon.woff') format('woff'), url('../fonts/icomoon.ttf') format('truetype'), url('../fonts/icomoon.svg#icomoon') format('svg');
   font-weight: normal;
@@ -1230,7 +1230,7 @@ img.floatpic {
 }
 
 [data-icon]:before {
-  font-family: 'Times New Roman';
+  font-family: 'Arial';
   content: attr(data-icon);
   speak: none;
   font-weight: normal;
@@ -1251,7 +1251,7 @@ img.floatpic {
 .icon-lastfm,
 .icon-mail,
 .icon-github {
-  font-family: 'Times New Roman';
+  font-family: 'Arial';
   speak: none;
   font-style: normal;
   font-weight: normal;
@@ -1354,7 +1354,7 @@ input,
 button,
 select,
 textarea {
-  font-family: 'Times New Roman';
+  font-family: 'Arial';
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   -ms-box-sizing: border-box;
@@ -1615,7 +1615,7 @@ select:focus {
 
 html {
   background-color: #ffffff;
-  font-family: 'Times New Roman';
+  font-family: 'Arial';
   font-color: #333332;
   font-size: 90%;
 }
@@ -1624,7 +1624,7 @@ html {
   margin: 0 auto;
   width: 100%;
   padding: 2em 0 3em;
-  font-family: 'Times New Roman';
+  font-family: 'Arial';
   font-weight: 700;
   text-transform: capitalize;
 }
@@ -1891,7 +1891,7 @@ html {
   display: block;
   margin: 0;
   padding: 0;
-  font-family: 'PT Sans Narrow', sans-serif;
+  font-family: 'Arial';
   border-bottom: 1px solid #808080;
 }
 
@@ -1992,7 +1992,7 @@ html {
 }
 
 .holder {
-  font-family: 'PT Sans Narrow', sans-serif;
+  font-family: 'Arial';
 }
 
 .holder a {
@@ -2354,7 +2354,7 @@ button::-moz-focus-inner {
   color: white;
   font-style: normal;
   font-size: 28px;
-  font-family: Arial, Baskerville, monospace;
+  font-family: 'Arial';
 }
 
 .mfp-close:hover,
