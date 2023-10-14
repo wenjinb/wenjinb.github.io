@@ -24,9 +24,9 @@ IEEE International Conference on Metaverse Computing, Networking and Application
 Junhong Zhang, Jiangtian Nie, **Jinbo Wen**, Jiawen Kang, Minrui Xu, Xiaofeng Luo, Dusit Niyato, Fellow IEEE    
 2nd International Workshop on Social and Metaverse Computing and Networking (SocialMeta), Hong Kong, China, 2023. (**Best paper award**)
 
-- [Coalition Game for Reliable Vehicle Twin Migration in Vehicular Metaverses](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.researchgate.net/profile/Yue-Zhong-12/publication/372452163_Coalition_Game_for_Reliable_Vehicle_Twin_Migration_in_Vehicular_Metaverses/links/64b7f7978de7ed28baad884c/Coalition-Game-for-Reliable-Vehicle-Twin-Migration-in-Vehicular-Metaverses.pdf)
+- [Coalition Game for Reliable Vehicle Twin Migration in Vehicular Metaverses](https://www.researchgate.net/publication/372452163_Coalition_Game_for_Reliable_Vehicle_Twin_Migration_in_Vehicular_Metaverses)    
 YueZhong, **JinboWen**, JiawenKang*, YunaJiang, LeiLiu, XuminHuang, WeifengZhong  
-2023 5th International Conference on Electronics and Communication, Network and Computer Technology (ECNCT 2023).
+2023 5th International Conference on Electronics and Communication, Network and Computer Technology (ECNCT 2023). (**Best paper award**)
 
 <br>
   <br>
