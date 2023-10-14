@@ -578,7 +578,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'PT Sans Narrow', sans-serif;
+  font-family: Arial, sans-serif;
   font-weight: 700;
 }
 
@@ -645,7 +645,7 @@ figcaption {
   font-size: 18px;
   font-size: 1rem;
   margin-bottom: 1.65rem;
-  font-family: 'PT Sans Narrow', sans-serif;
+  font-family: 'Arial', sans-serif;
   counter-increment: captions;
 }
 
@@ -685,7 +685,7 @@ code,
 kbd,
 samp,
 pre {
-  font-family: Monaco, "Courier New", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", monospace;
+  font-family: Arial, Monaco, "Courier New", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", monospace;
 }
 
 p code {
@@ -702,7 +702,7 @@ p code {
 
 .highlight {
   background-color: #efefef;
-  font-family: Monaco, "Courier New", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", monospace;
+  font-family: Arial, Monaco, "Courier New", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", monospace;
   font-size: 80%;
   color: #333332;
   margin-bottom: 1.5em;
@@ -1354,7 +1354,7 @@ input,
 button,
 select,
 textarea {
-  font-family: 'PT Serif', serif;
+  font-family: Arial,'PT Serif', serif;
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   -ms-box-sizing: border-box;
@@ -1615,7 +1615,7 @@ select:focus {
 
 html {
   background-color: #ffffff;
-  font-family: 'PT Serif', serif;
+  font-family: Arial, 'PT Serif', serif;
   font-color: #333332;
   font-size: 90%;
 }
@@ -1624,7 +1624,7 @@ html {
   margin: 0 auto;
   width: 100%;
   padding: 2em 0 3em;
-  font-family: 'PT Sans Narrow', sans-serif;
+  font-family: Arial, 'PT Sans Narrow', sans-serif;
   font-weight: 700;
   text-transform: capitalize;
 }
@@ -1891,7 +1891,7 @@ html {
   display: block;
   margin: 0;
   padding: 0;
-  font-family: 'PT Sans Narrow', sans-serif;
+  font-family: Arial, 'PT Sans Narrow', sans-serif;
   border-bottom: 1px solid #808080;
 }
 
@@ -1992,7 +1992,7 @@ html {
 }
 
 .holder {
-  font-family: 'PT Sans Narrow', sans-serif;
+  font-family: Arial, 'PT Sans Narrow', sans-serif;
 }
 
 .holder a {
