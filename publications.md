@@ -10,7 +10,6 @@ title: Publications
 **Jinbo Wen**, Jiawen Kang*, Zehui Xiong, Hongyang Du, Dusit Niyato, Fellow IEEE, Meng Shen, Yutao Jiao, Yang Zhang, and Shengli Xie, Fellow IEEE, IEEE Transactions on Vehicular Technology, 2022.
 
 - **<span style="color:blue;">[Blockchain-empowered Federated Learning for Healthcare Metaverses: User-centric Incentive Mechanism with Optimal Data Freshness](https://ieeexplore.ieee.org/abstract/document/10254627)</span>**
-
 Jiawen Kang, **Jinbo Wen**, Dongdong Ye, Bingkun Lai, Tianhao Wu, Zehui Xiong, Jiangtian Nie, Dusit Niyato, Fellow IEEE, Yang Zhang, Shengli Xie, Fellow IEEE
 **IEEE Transactions on Cognitive Communications and Networking, 2023. Accepted**
 
