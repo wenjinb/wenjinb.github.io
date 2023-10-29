@@ -4,6 +4,24 @@ permalink: /publications/index.html
 title: Publications
 ---
 
+## Journal Papers
+
+- [Optimal AoI-based Block Propagation and Incentive Mechanism for Blockchain Networks in Web 3.0]()  
+**Jinbo Wen**, Jiawen Kang*, Zehui Xiong, Hongyang Du, Dusit Niyato, Fellow IEEE, Meng Shen, Yutao Jiao, Yang Zhang, and Shengli Xie, Fellow IEEE, IEEE Transactions on Vehicular Technology, 2022.
+
+- **<span style="color:blue;">[Blockchain-empowered Federated Learning for Healthcare Metaverses: User-centric Incentive Mechanism with Optimal Data Freshness](https://ieeexplore.ieee.org/abstract/document/10254627)</span>**
+Jiawen Kang, **Jinbo Wen**, Dongdong Ye, Bingkun Lai, Tianhao Wu, Zehui Xiong, Jiangtian Nie, Dusit Niyato, Fellow IEEE, Yang Zhang, Shengli Xie, Fellow IEEE, IEEE Transactions on Cognitive Communications and Networking, 2023. **Accepted**
+
+- [Blockchain-assisted Twin Migration for Vehicular Metaverses: A Game Theory Approach](https://onlinelibrary.wiley.com/doi/full/10.1002/ett.4856?casa_token=MRKOLOrfenwAAAAA%3AM5xXakbGdb89Sxq9Lm3F2FcsDAUQvmA2PxYLwEFKSytPEyJzRZsdjRRbD7WmKKYIVZLyKg1tmAiiVuLy)  
+Yue Zhong, **Jinbo Wen**, Junhong Zhang, Jiawen Kang*, Yuna Jiang, Yang Zhang, Yanyu Cheng, Yongju Tong 
+Transactions on Emerging Telecommunications Technologies, 2023. (IF: 3.6 )
+
+- [Privacy Attacks and Defenses for Digital Twin Migrations in Vehicular Metaverses](https://ieeexplore.ieee.org/abstract/document/10269659)  
+Xiaofeng Luo, **Jinbo Wen**, Jiawen Kang*, Senior Member, IEEE, Jiangtian Nie, Zehui Xiong, Yang Zhang, Zhaohui Yang, Shengli Xie, Fellow, IEEE
+IEEE Network, 2023. (IF: 9.3)
+
+<br>
+  <br>
 
 ## Conference Papers
 
@@ -27,27 +45,6 @@ Junhong Zhang, Jiangtian Nie, **Jinbo Wen**, Jiawen Kang, Minrui Xu, Xiaofeng Lu
 - [Coalition Game for Reliable Vehicle Twin Migration in Vehicular Metaverses](https://www.researchgate.net/publication/372452163_Coalition_Game_for_Reliable_Vehicle_Twin_Migration_in_Vehicular_Metaverses)    
 YueZhong, **JinboWen**, JiawenKang*, YunaJiang, LeiLiu, XuminHuang, WeifengZhong  
 2023 5th International Conference on Electronics and Communication, Network and Computer Technology (ECNCT 2023). (**Best paper award**)
-
-<br>
-  <br>
-
-## Journal Papers
-
-- [Optimal AoI-based Block Propagation and Incentive Mechanism for Blockchain Networks in Web 3.0]()  
-**Jinbo Wen**, Jiawen Kang*, Zehui Xiong, Hongyang Du, Dusit Niyato, Fellow IEEE, Meng Shen, Yutao Jiao, Yang Zhang, and Shengli Xie, Fellow IEEE  
-IEEE Transactions on Vehicular Technology, 2022.
-
-- [Blockchain-empowered Federated Learning for Healthcare Metaverses: User-centric Incentive Mechanism with Optimal Data Freshness](https://ieeexplore.ieee.org/abstract/document/10254627)  
-Jiawen Kang, **Jinbo Wen**, Dongdong Ye, Bingkun Lai, Tianhao Wu, Zehui Xiong, Jiangtian Nie, Dusit Niyato, Fellow IEEE, Yang Zhang, Shengli Xie, Fellow IEEE,  
-IEEE Transactions on Cognitive Communications and Networking, 2023. (IF: 8.6)
-
-- [Blockchain-assisted Twin Migration for Vehicular Metaverses: A Game Theory Approach](https://onlinelibrary.wiley.com/doi/full/10.1002/ett.4856?casa_token=MRKOLOrfenwAAAAA%3AM5xXakbGdb89Sxq9Lm3F2FcsDAUQvmA2PxYLwEFKSytPEyJzRZsdjRRbD7WmKKYIVZLyKg1tmAiiVuLy)  
-Yue Zhong, **Jinbo Wen**, Junhong Zhang, Jiawen Kang*, Yuna Jiang, Yang Zhang, Yanyu Cheng, Yongju Tong 
-Transactions on Emerging Telecommunications Technologies, 2023. (IF: 3.6 )
-
-- [Privacy Attacks and Defenses for Digital Twin Migrations in Vehicular Metaverses](https://ieeexplore.ieee.org/abstract/document/10269659)  
-Xiaofeng Luo, **Jinbo Wen**, Jiawen Kang*, Senior Member, IEEE, Jiangtian Nie, Zehui Xiong, Yang Zhang, Zhaohui Yang, Shengli Xie, Fellow, IEEE
-IEEE Network, 2023. (IF: 9.3)
 
 <br>
   <br>
