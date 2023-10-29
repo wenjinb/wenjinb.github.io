@@ -3,7 +3,7 @@ layout: page
 ---
 
 
-# Hi, ^_^
+# Hi,
 
 <img src="./images/wenjinbo.jpg" class="floatpic" width="360" height="480">
 
