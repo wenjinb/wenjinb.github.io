@@ -11,7 +11,11 @@ layout: page
 
 I am Jinbo Wen (文锦柏), pursuing the M.S. degree with the College of Computer Science and Technology, Nanjing University of Aeronautics and Astronautics, China. My research is supervised by [Prof. Yang Zhang](http://faculty.nuaa.edu.cn/yang/zh_CN/index.htm) and [Prof. Jiawen Kang](https://teacher.gdut.edu.cn/kangjiawen/zh_CN/index.htm). Prior to this, I completed my B.Eng. degree from Guangdong University of Technology, China, in 2023, under the guidance of [Prof. Jiawen Kang](https://teacher.gdut.edu.cn/kangjiawen/zh_CN/index.htm). 
 
+<br>
+
 Currently, I also work as a research assistant in the **MetaX Lab**, advised by [Prof. Jiawen Kang](https://teacher.gdut.edu.cn/kangjiawen/zh_CN/index.htm). 
+
+<br>
 
 My research interests are primarily **AI-generated content**, **Metaverse**, and **Wireless communication**. If you are also interested in these research directions and would like to have a chat, please feel free to email me (jinbo1608@163.com) or add my WeChat (leslie_13682411608)! I am always happy to learn from brilliant minds ^_^!
 <br>
