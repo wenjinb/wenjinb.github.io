@@ -17,8 +17,8 @@ I am pursuing the M.S. degree with the College of Computer Science and Technolog
 
 ## Academic Background
 
-- **Sep 2019 - June 2023:** Guangdong University Of Technology
-- **Sep 2023 - Now:** Nanjing University of Aeronautics and Astronautics  
+- **Sep 2023 - Now:** Nanjing University of Aeronautics and Astronautics, China
+- **Sep 2019 - June 2023:** Guangdong University Of Technology, China
     
 <br>
 
