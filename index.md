@@ -9,7 +9,8 @@ layout: page
 
 <br>
 
-I am a senior student majoring in **Data Science and Big Data** at Guangdong University Of Technology and **Computer Science and Technology** at  Nanjing University of Aeronautics and Astronautics. Currently, I work as a research assistant in the **MetaX Lab** (Provincial Key Laboratory), advised by [Prof. Jiawen Kang](https://teacher.gdut.edu.cn/kangjiawen/zh_CN/index.htm). 
+I am pursuing the M.S. degree with the College of Computer Science and Technology, Nanjing University of Aeronautics and Astronautics, China. My research is supervised by [Prof. Yang Zhang](http://faculty.nuaa.edu.cn/yang/zh_CN/index.htm) and [Prof. Jiawen Kang](https://teacher.gdut.edu.cn/kangjiawen/zh_CN/index.htm). Prior to this, I completed my B.Eng. degree from Guangdong University of Technology, China, in 2023, under the guidance of [Prof. Jiawen Kang](https://teacher.gdut.edu.cn/kangjiawen/zh_CN/index.htm). Currently, I also work as a research assistant in the **MetaX Lab**, advised by [Prof. Jiawen Kang](https://teacher.gdut.edu.cn/kangjiawen/zh_CN/index.htm). 
+
 
 
 <br>
