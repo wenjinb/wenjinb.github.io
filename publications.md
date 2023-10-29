@@ -17,7 +17,7 @@ Jiawen Kang, **Jinbo Wen**, Dongdong Ye, Bingkun Lai, Tianhao Wu, Zehui Xiong, J
 Yue Zhong, **Jinbo Wen**, Junhong Zhang, Jiawen Kang*, Yuna Jiang, Yang Zhang, Yanyu Cheng, Yongju Tong  
 **Transactions on Emerging Telecommunications Technologies, 2023. Accepted**
 
--**<span style="color:blue;"> [Privacy Attacks and Defenses for Digital Twin Migrations in Vehicular Metaverses](https://ieeexplore.ieee.org/abstract/document/10269659)</span>**  
+- **<span style="color:blue;"> [Privacy Attacks and Defenses for Digital Twin Migrations in Vehicular Metaverses](https://ieeexplore.ieee.org/abstract/document/10269659)</span>**  
 Xiaofeng Luo, **Jinbo Wen**, Jiawen Kang*, Senior Member, IEEE, Jiangtian Nie, Zehui Xiong, Yang Zhang, Zhaohui Yang, Shengli Xie, Fellow, IEEE  
 **IEEE Network, 2023. Accepted**
 
@@ -30,11 +30,11 @@ Xiaofeng Luo, **Jinbo Wen**, Jiawen Kang*, Senior Member, IEEE, Jiangtian Nie, Z
 **Jinbo Wen**, Xiaojun Liu, Zehui Xiong, Meng Shen, Siming Wang, Yutao Jiao, Jiawen Kang*, He Li  
 **2022 IEEE International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom), Wuhan, China, 2022.**
 
--**<span style="color:blue;"> [Freshness-aware Incentive Mechanism for Mobile AI-Generated Content (AIGC) Networks](https://www.researchgate.net/publication/372493820_Freshness-aware_Incentive_Mechanism_for_Mobile_AI-Generated_Content_AIGC_Networks)</span>**    
+- **<span style="color:blue;"> [Freshness-aware Incentive Mechanism for Mobile AI-Generated Content (AIGC) Networks](https://www.researchgate.net/publication/372493820_Freshness-aware_Incentive_Mechanism_for_Mobile_AI-Generated_Content_AIGC_Networks)</span>**    
 **Jinbo Wen**, Jiawen Kang, Minrui Xu, Hongyang Du, Zehui Xiong, Yang Zhang*, Dusit Niyato, Fellow IEEE  
 **12th IEEE/CIC lnternational Conference on Communications in China (ICCC 2023), Dalian, China, 2023.**
 
--**<span style="color:blue;"> [Task freshness-aware incentive mechanism for vehicle twin migration
+- **<span style="color:blue;"> [Task freshness-aware incentive mechanism for vehicle twin migration
 in vehicular metaverses](https://www.researchgate.net/publication/373838193_Task_Freshness-aware_Incentive_Mechanism_for_Vehicle_Twin_Migration_in_Vehicular_Metaverses)</span>**   
 **Jinbo Wen**, Jiawen Kang*, Zehui Xiong, Yang Zhang, Hongyang Du, Yutao Jiao, Dusit Niyato, Fellow IEEE    
 **IEEE International Conference on Metaverse Computing, Networking and Applications (IEEE MetaCom 2023), Kyoto, Japan, 2023.**
