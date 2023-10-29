@@ -13,7 +13,7 @@ title: Publications
 Jiawen Kang, **Jinbo Wen**, Dongdong Ye, Bingkun Lai, Tianhao Wu, Zehui Xiong, Jiangtian Nie, Dusit Niyato, Fellow IEEE, Yang Zhang, Shengli Xie, Fellow IEEE  
 **IEEE Transactions on Cognitive Communications and Networking, 2023. Accepted**
 
-- **<span style="color:blue; font-size: 16px;">[Blockchain-assisted Twin Migration for Vehicular Metaverses: A Game Theory Approach](https://onlinelibrary.wiley.com/doi/full/10.1002/ett.4856?casa_token=MRKOLOrfenwAAAAA%3AM5xXakbGdb89Sxq9Lm3F2FcsDAUQvmA2PxYLwEFKSytPEyJzRZsdjRRbD7WmKKYIVZLyKg1tmAiiVuLy)</span>**  
+- **<span style="color:blue; font-size: 20px;">[Blockchain-assisted Twin Migration for Vehicular Metaverses: A Game Theory Approach](https://onlinelibrary.wiley.com/doi/full/10.1002/ett.4856?casa_token=MRKOLOrfenwAAAAA%3AM5xXakbGdb89Sxq9Lm3F2FcsDAUQvmA2PxYLwEFKSytPEyJzRZsdjRRbD7WmKKYIVZLyKg1tmAiiVuLy)</span>**  
 Yue Zhong, **Jinbo Wen**, Junhong Zhang, Jiawen Kang*, Yuna Jiang, Yang Zhang, Yanyu Cheng, Yongju Tong  
 **Transactions on Emerging Telecommunications Technologies, 2023. Accepted**
 
