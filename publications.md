@@ -11,15 +11,15 @@ title: Publications
 
 - **<span style="color:blue;">[Blockchain-empowered Federated Learning for Healthcare Metaverses: User-centric Incentive Mechanism with Optimal Data Freshness](https://ieeexplore.ieee.org/abstract/document/10254627)</span>**  
 Jiawen Kang, **Jinbo Wen**, Dongdong Ye, Bingkun Lai, Tianhao Wu, Zehui Xiong, Jiangtian Nie, Dusit Niyato, Fellow IEEE, Yang Zhang, Shengli Xie, Fellow IEEE  
-**IEEE Transactions on Cognitive Communications and Networking, 2023. Accepted**
+IEEE Transactions on Cognitive Communications and Networking, 2023. Accepted
 
 - **<span style="color:blue;">[Blockchain-assisted Twin Migration for Vehicular Metaverses: A Game Theory Approach](https://onlinelibrary.wiley.com/doi/full/10.1002/ett.4856?casa_token=MRKOLOrfenwAAAAA%3AM5xXakbGdb89Sxq9Lm3F2FcsDAUQvmA2PxYLwEFKSytPEyJzRZsdjRRbD7WmKKYIVZLyKg1tmAiiVuLy)</span>**  
 Yue Zhong, **Jinbo Wen**, Junhong Zhang, Jiawen Kang*, Yuna Jiang, Yang Zhang, Yanyu Cheng, Yongju Tong  
-**Transactions on Emerging Telecommunications Technologies, 2023. Accepted**
+Transactions on Emerging Telecommunications Technologies, 2023. Accepted
 
 - **<span style="color:blue;"> [Privacy Attacks and Defenses for Digital Twin Migrations in Vehicular Metaverses](https://ieeexplore.ieee.org/abstract/document/10269659)</span>**  
 Xiaofeng Luo, **Jinbo Wen**, Jiawen Kang*, Senior Member, IEEE, Jiangtian Nie, Zehui Xiong, Yang Zhang, Zhaohui Yang, Shengli Xie, Fellow, IEEE  
-**IEEE Network, 2023. Accepted**
+IEEE Network, 2023. Accepted
 
 <br>
   <br>
@@ -45,7 +45,7 @@ Junhong Zhang, Jiangtian Nie, **Jinbo Wen**, Jiawen Kang, Minrui Xu, Xiaofeng Lu
 
 - **<span style="color:blue;">[Coalition Game for Reliable Vehicle Twin Migration in Vehicular Metaverses](https://www.researchgate.net/publication/372452163_Coalition_Game_for_Reliable_Vehicle_Twin_Migration_in_Vehicular_Metaverses) </span>**   
 YueZhong, **JinboWen**, JiawenKang*, YunaJiang, LeiLiu, XuminHuang, WeifengZhong  
-2023 5th International Conference on Electronics and Communication, Network and Computer Technology (ECNCT 2023). (**Best paper award**)
+2023 5th International Conference on Electronics and Communication, Network and Computer Technology (ECNCT 2023). (**<span style="color:red;">Best paper award</span>**)
 
 <br>
   <br>
