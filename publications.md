@@ -6,7 +6,7 @@ title: Publications
 
 ## Journal Papers
 
-- [Optimal AoI-based Block Propagation and Incentive Mechanism for Blockchain Networks in Web 3.0]()  
+- [Optimal AoI-based Block Propagation and Incentive Mechanism for Blockchain Networks in Web 3.0]  
 **Jinbo Wen**, Jiawen Kang*, Zehui Xiong, Hongyang Du, Dusit Niyato, Fellow IEEE, Meng Shen, Yutao Jiao, Yang Zhang, and Shengli Xie, Fellow IEEE, IEEE Transactions on Vehicular Technology, 2022.
 
 - **<font color='blue'>[Blockchain-empowered Federated Learning for Healthcare Metaverses: User-centric Incentive Mechanism with Optimal Data Freshness]</font>**  
